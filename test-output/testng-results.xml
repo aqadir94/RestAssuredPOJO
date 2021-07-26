@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-26T17:10:25 EDT" name="Default suite" finished-at="2021-07-26T17:10:29 EDT" duration-ms="4005">
+    <groups>
+    </groups>
+    <test started-at="2021-07-26T17:10:25 EDT" name="Default test" finished-at="2021-07-26T17:10:29 EDT" duration-ms="4005">
+      <class name="com.test.RestTestComplexPOJO">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.test.RestTestComplexPOJO@49c7b90e]" started-at="2021-07-26T17:10:25 EDT" name="beforeClass" finished-at="2021-07-26T17:10:26 EDT" duration-ms="740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="test()[pri:0, instance:com.test.RestTestComplexPOJO@49c7b90e]" started-at="2021-07-26T17:10:26 EDT" name="test" finished-at="2021-07-26T17:10:29 EDT" duration-ms="3227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.test.RestTestComplexPOJO -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
