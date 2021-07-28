@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.test.RestTestComplexPOJO">
+      <class name="com.test.RestTestComplexPOJO3">
         <methods>
           <include name="test"/>
           <include name="beforeClass"/>
         </methods>
-      </class> <!-- com.test.RestTestComplexPOJO -->
+      </class> <!-- com.test.RestTestComplexPOJO3 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
